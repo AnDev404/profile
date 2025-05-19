@@ -1,6 +1,11 @@
 <!-- Profile dengan tema biru gelap, simpel, dan profesional -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=150&section=header" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=150&section=header" 
+    alt="Header" 
+    width="100%" 
+    style="height:auto;"
+  />
   
   # Muhammad Andrian Dirgantara
   ### IT Support & Network Technician
@@ -125,5 +130,10 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andev404&theme=algolia" alt="GitHub Streak" />
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=100&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=100&section=footer"
+    alt="Footer"
+    width="100%"
+    style="height:auto;"
+  />
 </div>
