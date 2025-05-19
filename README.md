@@ -39,14 +39,12 @@
 
 
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <!-- kolom teks tanpa border -->
-    <td valign="middle" width="70%" style="border: none; padding: 0;">
+    <td valign="middle" width="70%" style="padding:0;">
       Lulusan SMK Teknik Komputer dan Jaringan dengan keahlian dalam troubleshooting, pengembangan jaringan, dan pemrograman dasar. Fokus pada solusi IT yang efisien dan handal untuk berbagai kebutuhan teknis. Passionate dalam mengoptimalkan sistem dan memberikan dukungan teknis yang dapat diandalkan.
     </td>
-    <!-- kolom gambar tanpa border -->
-    <td valign="middle" width="30%" style="border: none; padding: 0;">
+    <td valign="middle" width="30%" style="padding:0;">
       <img 
         width="220"
         alt="Coding" 
