@@ -1,3 +1,4 @@
+<div style="background-color: #0A2647; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
 
 <!-- Profile dengan tema biru gelap, simpel, dan profesional -->
 <div align="center">
