@@ -41,6 +41,8 @@
 
 Lulusan SMK Teknik Komputer dan Jaringan dengan keahlian dalam troubleshooting, pengembangan jaringan, dan pemrograman dasar. Fokus pada solusi IT yang efisien dan handal untuk berbagai kebutuhan teknis. Passionate dalam mengoptimalkan sistem dan memberikan dukungan teknis yang dapat diandalkan.
 
+<div style="clear: both;"></div>
+
 ## 🛠️ Tech Skills
 
 <table>
