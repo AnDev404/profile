@@ -31,7 +31,10 @@
 </div>
 
 ## 👨‍💻 About Me
-Lulusan SMK Teknik Komputer dan Jaringan dengan kemampuan troubleshooting, pengembangan jaringan, dan pemrograman dasar. Berpengalaman dalam instalasi dan konfigurasi jaringan internet, integrasi perangkat IoT, serta pemecahan masalah perangkat keras. Tertarik untuk mengembangkan karir di bidang IT secara profesional.
+
+<img align="right" alt="Coding" width="220" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+Lulusan SMK Teknik Komputer dan Jaringan dengan keahlian dalam troubleshooting, pengembangan jaringan, dan pemrograman dasar. Fokus pada solusi IT yang efisien dan handal untuk berbagai kebutuhan teknis. Passionate dalam mengoptimalkan sistem dan memberikan dukungan teknis yang dapat diandalkan.
 
 ## 🛠️ Tech Skills
 
@@ -66,19 +69,41 @@ Lulusan SMK Teknik Komputer dan Jaringan dengan kemampuan troubleshooting, penge
   </tr>
 </table>
 
-## 💼 Experience
+## 🎯 Focus Areas
+
 <div align="center">
   <table>
     <tr>
-      <td><b>🏢 PT. Asia Smart Media</b></td>
-      <td>Staff Magang Bagian Teknisi (PKL)</td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/48/000000/router.png" width="48" height="48"/>
+        <br><b>Network Management</b>
+        <br><small>LAN/WiFi Configuration, Troubleshooting, Signal Optimization</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/48/000000/workflow.png" width="48" height="48"/>
+        <br><b>System Integration</b>
+        <br><small>Hardware Setup, IoT Devices, CCTV Systems</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/48/000000/maintenance.png" width="48" height="48"/>
+        <br><b>Technical Support</b>
+        <br><small>Remote Assistance, Hardware/Software Maintenance</small>
+      </td>
     </tr>
   </table>
 </div>
 
-- 🌐 Instalasi dan konfigurasi jaringan internet di lokasi pelanggan
-- 🛠️ Troubleshooting konektivitas dan memberikan solusi teknis
-- 🔄 Pemeliharaan peralatan jaringan dan pengujian kualitas sinyal
+## 🚀 Projects & Interests
+
+<div align="center">
+  <a href="https://andev404.github.io/portofolio/">
+    <img src="https://img.shields.io/badge/Check_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+- 👨‍💻 Currently improving skills in Cloud Services & Cybersecurity
+- 🌐 Interested in developing IoT solutions for smart home applications
+- 🔍 Exploring automation tools to enhance technical support efficiency
 
 <div align="center">
   <br>
