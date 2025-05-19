@@ -37,7 +37,7 @@
     <td valign="middle" width="70%" style="padding:0;">
       Lulusan SMK Teknik Komputer dan Jaringan dengan keahlian dalam troubleshooting, pengembangan jaringan, dan pemrograman dasar. Fokus pada solusi IT yang efisien dan handal untuk berbagai kebutuhan teknis. Passionate dalam mengoptimalkan sistem dan memberikan dukungan teknis yang dapat diandalkan.
     </td>
-    <td valign="middle" width="30%" style="padding:0;">
+    <td valign="middle" width="30%" align="center" style="padding:0; text-align:center;">
       <img 
         width="220"
         alt="Coding" 
