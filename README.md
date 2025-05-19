@@ -119,5 +119,10 @@ Lulusan SMK Teknik Komputer dan Jaringan dengan keahlian dalam troubleshooting, 
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andev404&theme=algolia" alt="GitHub Streak" />
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=100&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=100&section=footer"
+    alt="Footer"
+    width="100%"
+    style="height:auto;"
+  />
 </div>
