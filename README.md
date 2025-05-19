@@ -38,19 +38,23 @@
 ## 👨‍💻 About Me
 
 
-<div style="display: flex; align-items: center; gap: 1rem;">
 
-  <div style="flex: 1;">
-    Lulusan SMK Teknik Komputer dan Jaringan dengan keahlian dalam troubleshooting, pengembangan jaringan, dan pemrograman dasar. Fokus pada solusi IT yang efisien dan handal untuk berbagai kebutuhan teknis. Passionate dalam mengoptimalkan sistem dan memberikan dukungan teknis yang dapat diandalkan.
-  </div>
-
-  <img 
-    width="220" 
-    alt="Coding" 
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-  />
-
-</div>
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- kolom teks tanpa border -->
+    <td valign="middle" width="70%" style="border: none; padding: 0;">
+      Lulusan SMK Teknik Komputer dan Jaringan dengan keahlian dalam troubleshooting, pengembangan jaringan, dan pemrograman dasar. Fokus pada solusi IT yang efisien dan handal untuk berbagai kebutuhan teknis. Passionate dalam mengoptimalkan sistem dan memberikan dukungan teknis yang dapat diandalkan.
+    </td>
+    <!-- kolom gambar tanpa border -->
+    <td valign="middle" width="30%" style="border: none; padding: 0;">
+      <img 
+        width="220"
+        alt="Coding" 
+        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+      />
+    </td>
+  </tr>
+</table>
 
 <div style="clear: both;"></div>
 <br>
