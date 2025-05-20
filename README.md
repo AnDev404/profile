@@ -35,23 +35,6 @@
   </p>
 </div>
 
-## 👨‍💻 About Me
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td valign="middle" width="70%" style="padding:0;">
-      Lulusan SMK Teknik Komputer dan Jaringan dengan keahlian dalam troubleshooting, pengembangan jaringan, dan pemrograman dasar. Fokus pada solusi IT yang efisien dan handal untuk berbagai kebutuhan teknis. Passionate dalam mengoptimalkan sistem dan memberikan dukungan teknis yang dapat diandalkan.
-    </td>
-    <td valign="middle" width="30%" align="center" style="padding:0; text-align:center;">
-      <img 
-        width="220"
-        alt="Coding" 
-        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-      />
-    </td>
-  </tr>
-</table>
-
 ## 🛠️ Tech Skills
 
 <table>
