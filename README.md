@@ -114,8 +114,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andev404&theme=algolia" alt="GitHub Streak" />
   
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=100&section=footer"
-    alt="Footer"
+    src="https://raw.githubusercontent.com/andev404/andev404/output/github-contribution-grid-snake.svg" 
+    alt="Snake animation"
     width="100%"
     style="height:auto;"
   />
