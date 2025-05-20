@@ -114,7 +114,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andev404&theme=algolia" alt="GitHub Streak" />
   
   <img
-    src="https://raw.githubusercontent.com/andev404/andev404/output/github-contribution-grid-snake.svg" 
+    src="https://raw.githubusercontent.com/AnDev404/profile/refs/heads/main/github-user-contribution.svg" 
     alt="Snake animation"
     width="100%"
     style="height:auto;"
