@@ -1,11 +1,12 @@
 <!-- Profile dengan tema biru gelap, simpel, dan profesional -->
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/AnDev404/profile/blob/main/Your%2BName%2B-%2BKimi%2BNo%2BNa%2BWa.gif" 
-    alt="Header" 
-    width="100%" 
-    style="height:auto;"
+  src="https://raw.githubusercontent.com/AnDev404/profile/main/Your%2BName%2B-%2BKimi%2BNo%2BNa%2BWa.gif" 
+  width="100%" 
+  height="auto" 
+  alt="Kimi No Na Wa Footer" 
   />
+
   
   # Muhammad Andrian Dirgantara
   ### IT Support & Network Technician
