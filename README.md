@@ -1,7 +1,7 @@
 <!-- Profile dengan tema biru gelap, simpel, dan profesional -->
 <div align="center">
   <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThqeDAydWdhaDYycWV3YWh5cWswdHNza3BwY3c2d2F4Z211Nm9xdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sxuaGEgzfS5W0/giphy.gif" 
+    src="https://raw.githubusercontent.com/AnDev404/profile/blob/main/Your%2BName%2B-%2BKimi%2BNo%2BNa%2BWa.gif" 
     alt="Header" 
     width="100%" 
     style="height:auto;"
